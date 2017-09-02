@@ -1,0 +1,5 @@
+firstname='swamiye'
+seccondname='saranam'
+thirdname='ayyapa'
+fourthname=firstname.strip()+seccondname.strip()+thirdname.strip()
+print(fourthname)
