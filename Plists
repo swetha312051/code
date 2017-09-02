@@ -1,0 +1,24 @@
+//list creation
+family=["mom","dad","bro","sis","husband","wife"]
+print(family)
+//list methods
+1)list append :
+family=["mom","dad","bro","sis","husband","wife"]
+family.append("aunt")
+print(family)
+2)list pop:
+family=["mom","dad","bro","sis","husband","wife"]
+family.pop()
+print(family)
+3)extend:
+family=["mom","dad","bro","sis","husband","wife"]
+family.extend(["aunt","uncle"])
+print(family)
+4)remove:
+family=["mom","dad","bro","sis","husband","wife"]
+family.remove("dad")
+print(family)
+5)insert:
+family=["mom","dad","bro","sis","husband","wife"]
+family.insert("4,uncle")
+print(family)
